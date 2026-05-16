@@ -87,6 +87,4 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **Lokshana**
-
-GitHub: [GitHub Profile](https://github.com/LokshanaS)
+GitHub: [GitHub Profile](https://github.com/Laliths-Logic)
